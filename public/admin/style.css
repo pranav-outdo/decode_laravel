@@ -1,0 +1,22 @@
+.hide{
+	display: none;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	color: black;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true]{
+	background-color: #c7c7c7;
+}
+
+.nav-treeview li.nav-item.active a.nav-link.active {
+    background: rgb(163 157 157 / 90%);
+	color: #fff;
+}
+
+
+.nav-treeview li.nav-item.active a.nav-link.active:hover {
+	background: rgb(189 182 182 / 90%);
+	color: #fff;
+}
