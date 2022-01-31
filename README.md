@@ -6,7 +6,6 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 ```sh
-git clone https://github.com/technomads-in/decode_entropik.git
 ```
 Switch to the repo folder
 ```sh
